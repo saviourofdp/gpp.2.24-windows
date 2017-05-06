@@ -1,0 +1,28 @@
+{
+  "name": "gpp",
+  "version": "2.24.1",
+  "description": "GPP",
+  "main": "index.js",
+  "bin": { "gpp": "gpp/gpp.exe" },
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saviourofdp/gpp.2.24-windows.git"
+  },
+  "keywords": [
+    "gpp",
+    "preprocessor"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saviourofdp/gpp.2.24-windows/issues"
+  },
+  "homepage": "https://github.com/saviourofdp/gpp.2.24-windows#readme",
+  "devDependencies": {
+    "7zip": "0.0.6"
+  }
+}
